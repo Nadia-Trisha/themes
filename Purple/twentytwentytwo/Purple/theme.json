@@ -1,0 +1,11 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": "6.3",
+    "settings": {
+        "layout": {
+            "contentSize": "1183px",
+            "wideSize": "1183px"
+        }
+    }
+}
+
